@@ -50,11 +50,12 @@ export default function Description({
       </button>
       <Modal
         open={open}
+        
         onClose={handleClose}
         aria-labelledby="parent-modal-title"
         aria-describedby="parent-modal-description"
       >
-        <Box sx={{ ...style, width: 800, height: 800 }}>
+        <Box sx={{ ...style, width: '65%', }}>
           <h2
             id="parent-modal-title"
             className="text-center text-3xl font-semibold mb-10"
