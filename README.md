@@ -8,3 +8,10 @@
 3. Run `npm start` to start the server
 4. Open `http://localhost:3000` in your browser
 
+## Tech Stack:
+
+- React
+- Redux Toolkit
+- TypeScript
+- CSS
+- Material-UI
